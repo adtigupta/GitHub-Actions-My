@@ -1,4 +1,5 @@
-name: My First GitHub Actions
+
+name: My First GitHub Act
 
 on: [push]
 
